@@ -28,8 +28,6 @@ export default function Home() {
               Login
             </p>
           </Link>
-
-          </Link>
         </div>
       </div>
     </div>
